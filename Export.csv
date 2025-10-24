@@ -1,0 +1,46 @@
+geometry,Bed Name,Location,Survey Date,Survey #,Acres,Miles,County,Start time (PDT),End time (PDT),CORRECTED DEPTH: Edge closest to shore (m MLLW),CORRECTED DEPTH: Edge farthest from shore (m MLLW),Total Bulbs/Meter-Squared,Water Temp (C),Weather,Tide Station,Tide Ht Start (ft),Observations,Additional Observations,Photo towards beach,Photo towards water,Photo beach on left,Photo beach on right,SurveyDate_Converted,SurveyID
+Geocortex.Gis.Geometries.Polygon,Edmond 2 (B),Edmonds North,"July 14, 2015",1,15.1401757555846,1.07614608080177,Snohomish,09:24 AM,10:45 AM,0.9455,1.525,6.1011905670166,15,,Edmonds,-1,"Very large patch. Variable density. Extends north to Shell Creek
+Two transects at different places within the bed. Density of 6.1 one transect and 1.19 the other",,,,,,2015-07-14T00:00:00.0000000,"Edmond 2 (B) July 14, 2015"
+Geocortex.Gis.Geometries.Polygon,Meadowdale 2 (B),Meadowdale,"July 17, 2015",1,0.801075665994851,0.178886012468354,Snohomish,12:27 PM,12:45 PM,0.366,0.366,1.39860153198242,,,Everett,-1.2,No depths recorded at Meadowdale B,,,,,,2015-07-17T00:00:00.0000000,"Meadowdale 2 (B) July 17, 2015"
+Geocortex.Gis.Geometries.Polygon,Mukilteo 6 (A),Mukilteo,"July 16, 2015",1,0.139817533960167,0.099007830850672,Snohomish,10:44 AM,11:02 AM,0.3965,0.4575,0.404040396213531,16,,Everett,-0.8,"Small bed near shore-shallow.
+Extra low density about 5-8 m wide
+BL took 3 mins
+eelgrass on north",,,,,,2015-07-16T00:00:00.0000000,"Mukilteo 6 (A) July 16, 2015"
+Geocortex.Gis.Geometries.Polygon,Mukilteo 1 (B),Mukilteo,"July 16, 2015",1,0.22432688638202,0.143130641874502,Snohomish,11:08 AM,11:25 AM,0.5185,0.671,0.43771043419838,16,,Everett,-1.4,Larger than MKA ~ 20 m wide,,,,,,2015-07-16T00:00:00.0000000,"Mukilteo 1 (B) July 16, 2015"
+Geocortex.Gis.Geometries.Polygon,Mukilteo C,Mukilteo,"July 16, 2015",1,0.078699187304786,0.0644832927422709,Snohomish,11:26 AM,11:35 AM,0.549,0.671,,16,,Everett,-1.5,"No transect, total bulb counts avg 101 (Lincoln 109, Taylor 97)/
+Observers counted all bulbs in entire bed, averaged counts.
+Very low density, small bed
+Density = 101/318.48 m2 = 0.32 bulbs/m2
+* area of entire bed derived in GIS",,,,,,2015-07-14T00:00:00.0000000,"Mukilteo C July 16, 2015"
+Geocortex.Gis.Geometries.Polygon,"Mukilteo 2, 3&4 (D)",Mukilteo,"July 16, 2015
+",1,1.12041839981996,0.431957871011638,Snohomish,11:42 AM,12:01 PM,0.732,1.0065,0.336700320243835,16,,Everett,-1.6,hugs the shoreline,,,,,,2015-07-16T00:00:00.0000000,"Mukilteo 2, 3&4 (D) July 16, 2015
+"
+Geocortex.Gis.Geometries.Polygon,Mukilteo 5 (E),Mukilteo,"July 16, 2015",1,1.92012410100139,0.370245522959801,Snohomish,12:03 PM,12:28 PM,0.6405,1.0065,1.54882156848907,16,,Everett,-1.6,"Good sized riprap offshore, kelp loves it
+large bed. Extends offshore 100 m. denser, many are on large rocks",,,,,,2015-07-16T00:00:00.0000000,"Mukilteo 5 (E) July 16, 2015"
+Geocortex.Gis.Geometries.Polygon,Mukilteo F,Mukilteo,"July 16, 2015",1,0.575197833732817,0.16633923160853,Snohomish,12:30 PM,12:42 PM,0.549,0.793,0.639730632305145,16,,Everett,-1.3,Small offshore bed.,,,,,,2015-07-16T00:00:00.0000000,"Mukilteo F July 16, 2015"
+Geocortex.Gis.Geometries.Polygon,Mukilteo G,Mukilteo,"July 16, 2015",1,0.772829341316813,0.201625834365222,Snohomish,12:50 PM,01:03 PM,0.5185,0.732,1.54882156848907,16,,Everett,-1,,,,,,,2015-07-16T00:00:00.0000000,"Mukilteo G July 16, 2015"
+Geocortex.Gis.Geometries.Polygon,Mukilteo I,Mukilteo,"July 16, 2015",1,0.278783554626966,0.189743828305109,Snohomish,02:00 PM,02:22 PM,0.0914999999999999,0.183,0.909090876579285,16,,Everett,1.1,This is the kelp patch of the lost G bed,,,,,,2015-07-16T00:00:00.0000000,"Mukilteo I July 16, 2015"
+Geocortex.Gis.Geometries.Polygon,Mukilteo H,Mukilteo,"July 16, 2015",1,0.062959259024316,0.0693847028250205,Snohomish,01:22 PM,01:32 PM,0.793,0.671,,16,,Everett,-0.4,"Just north of houses, runs on a line to NW.
+Observers counted all bulbs in entire bed and averaged counts = 57 total plants (Taylor 61, Lincoln 53)
+Density = 57 bulbs/254.79 m2 = 0.22 bulbs/m2
+* area of bed calculated in GIS",,,,,,2015-07-16T00:00:00.0000000,"Mukilteo H July 16, 2015"
+Geocortex.Gis.Geometries.Polygon,Meadowdale 3 (A),Meadowdale,"July 17, 2015",1,0.068170955590327,0.0552272036066271,Snohomish,12:03 PM,12:16 PM,0.427,0.5795,0.134680137038231,,,Everett,-1,"By the Lynnwood treatment plant.
+Small bed associated with old pilings",,,,,,2015-07-17T00:00:00.0000000,"Meadowdale 3 (A) July 17, 2015"
+Geocortex.Gis.Geometries.Polygon,Meadowdale 1 (C),Meadowdale,"July 17, 2015",1,0.64750121006018,0.127350283348839,Snohomish,12:50 PM,01:12 PM,0.7625,1.403,0.101010099053383,,,Everett,-1.2,,,,,,,2015-07-17T00:00:00.0000000,"Meadowdale 1 (C) July 17, 2015"
+Geocortex.Gis.Geometries.Polygon,Edmond 3 (A),Edmonds North,"July 14, 2015",1,0.931600209484486,0.283562436741362,Snohomish,09:34 AM,10:05 AM,0.41175,0.53375,2.15488219261169,15,,Everett - NOAA 9447659,-1,"Some intermixed samm (sargassum muticum) and eelgrass. Bare areas just outside bed. Some lamanaria saccarina interspered, moon snail eggs. Most kelp looks pretty healthy, some kind of bleached, some of the whips are spiraled, lots of crabs, some of the kelp leaves seem to have air bubbles in them.",,,,,,2015-07-14T00:00:00.0000000,"Edmond 3 (A) July 14, 2015"
+Geocortex.Gis.Geometries.Polygon,Edmond 3 (C),Edmonds North,"July 14, 2015",1,0.441774852437827,0.187356510526544,Snohomish,10:26 AM,10:35 AM,0.7015,0.65575,1.81818175315857,15,,Edmonds,-1.8,"Shallower bed, parallel to large EDB. SAMM, LASA intermixed
+Some zosteria japonica higher on beach (out of water about 10 ft from railroad revetment)",,,,,,2015-07-14T00:00:00.0000000,"Edmond 3 (C) July 14, 2015"
+Geocortex.Gis.Geometries.Polygon,North Beach East,North Beach Main,"Sept 12, 2015",1,2.42284347398193,0.301371146316479,Jefferson,02:55 PM,03:08 PM,,,1.26186144351959,,,9444900,6.03,,,,,,,2015-09-12T00:00:00.0000000,"North Beach East Sept 12, 2015"
+Geocortex.Gis.Geometries.Polygon,North Beach West,North Beach,"Sept 12, 2015",1,0.813058359444147,0.149820027781922,Jefferson,03:35 PM,03:42 PM,,,1.80265927314758,,,9444900,6.9,"High tide, bulbs under surface, small clusters of bulbs >8m away from the main bed. No bulbs on surface inbetween them, but they are clearly connected",,,,,,2015-09-12T00:00:00.0000000,"North Beach West Sept 12, 2015"
+Geocortex.Gis.Geometries.Polygon,Libbey Beach,Libbey Beach,"June 14, 2015",1,0.755370747199,0.193285200654573,Island,12:00 AM,12:00 AM,,,,,,,,,,,,,,2015-06-14T00:00:00.0000000,"Libbey Beach June 00, 2015"
+Geocortex.Gis.Geometries.Polygon,Libbey Beach,Libbey Beach,"July 18, 2015",1,0.580953128075,0.205804608495316,Island,06:40 AM,07:16 AM,-0.7625,0.0548999999999999,0.488888889551163,,,Point Partridge,5,,,,,,,2015-07-18T00:00:00.0000000,"Libbey Beach July 18, 2015"
+Geocortex.Gis.Geometries.Polygon,Hastie Lake,Hastie Lake Launch,"June 15, 2015",1,13.2873103922,1.19813512522423,Island,12:00 AM,12:00 AM,,,,,,,,,,,,,,2015-06-15T00:00:00.0000000,"Hastie Lake June 15, 2015"
+Geocortex.Gis.Geometries.Polygon,Hastie Lake,Hastie Lake Launch,"July 27, 2015",1,12.2602266409,1.82132944720968,Island,02:17 PM,04:28 PM,-0.8418,0.14945,0.844444453716278,13.8,,Sunset Beach 9447951,5.5,,,,,,,2015-07-27T00:00:00.0000000,"Hastie Lake July 27, 2015"
+Geocortex.Gis.Geometries.Polygon,Hastie Lake,Hastie Lake Launch,"Aug 23, 2015",1,14.5470994014,1.77006064028858,Island,12:00 AM,12:00 AM,,,,,,,,,,,,,,2015-08-23T00:00:00.0000000,"Hastie Lake Aug 23, 2015"
+Geocortex.Gis.Geometries.Polygon,Ebey's Landing,Ebeys Landing,"June 14, 2015",1,9.49077941151902,0.760353765040577,Island,09:23 AM,10:18 AM,0.82655,1.805295,1.75896537303925,11,,Admiralty Head,-1.5,"1) Lots (10^6) of probably kelp crab  zoea in kelp beds (soup)!
+2) Inshore is a mixture of bull kelp, feather boa, and eelgrass",,,,,,2015-06-14T00:00:00.0000000,"Ebey's Landing June 14, 2015"
+Geocortex.Gis.Geometries.Polygon,Ebey's Landing,Ebeys Landing,"July 19, 2015",1,14.6257562899415,0.953516338777643,Island,12:20 PM,01:28 PM,0.549,1.6714,1.8222222328186,13,,Admiralty Head,0,,,,,,,2015-07-19T00:00:00.0000000,"Ebey's Landing July 19, 2015"
+Geocortex.Gis.Geometries.Polygon,Ebey's Landing,Ebeys Landing,"Aug 15, 2015",1,18.3718462794961,1.23162679944048,Island,11:13 AM,12:31 PM,0.69235,1.6775,1.20000004768372,13,,Admiralty Head,0,,,,,,,2015-08-15T00:00:00.0000000,"Ebey's Landing Aug 15, 2015"
+Geocortex.Gis.Geometries.Polygon,Ebey's Landing,Ebeys Landing,"Sept 26, 2015",1,17.8857633901287,1.10943329353726,Island,08:40 AM,09:46 AM,0.3965,1.7995,1.68888890743256,12,,Admiralty head,0.5,"Lots of heer,ams gulls, glavcous winged gulls, western gulls, school of small (<100 mm )salmonics in kelp, occasionally jumping adult salmonids (trout-like); many perch-like fish, few cyanne jellyfish",,,,,,2015-09-26T00:00:00.0000000,"Ebey's Landing Sept 26, 2015"
+Geocortex.Gis.Geometries.Polygon,Pole Pass,Pole Pass,"Aug 26, 2015",1,0.386058624407,0.152379554331706,San Juan,09:00 AM,09:30 AM,0,1.342,1.20756757259369,10.56,,Friday Harbor,0,,,,,,,2015-08-26T00:00:00.0000000,"Pole Pass Aug 26, 2015"
+Geocortex.Gis.Geometries.Polygon,Hastie Lake,Hastie Lake Launch,"Sept 20, 2015",1,10.01064901,1.98320732687276,Island,12:00 AM,12:00 AM,,,,,,,,,,,,,,2015-09-20T00:00:00.0000000,"Hastie Lake Sept 20, 2015"
